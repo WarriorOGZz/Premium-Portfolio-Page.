@@ -140,18 +140,13 @@ https://premium-portfolio-page.vercel.app
 
 ---
 
-# 📸 Screenshots
+## 📸 Preview
 
-```text
-assets/
-├── hero.png
-├── about.png
-├── projects.png
-├── skills.png
-└── contact.png
-```
+<div align="center">
 
-Replace these images with your own project screenshots.
+<img src="./assets/6a6f5a8e9316b149b4783613.jpg" alt="WarriorOG Portfolio Preview" width="100%"/>
+
+</div>
 
 ---
 
