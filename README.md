@@ -1,6 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=3000&pause=1000&color=7CFFB2&center=true&vCenter=true&width=900&lines=WarriorOG+Portfolio;Modern+Developer+Experience;Built+with+React+19+%2B+TypeScript;Crafted+with+Passion+🔥" alt="Typing"/>
 
-<div align="center">
 
 # ⚡ WarriorOG Portfolio
 
