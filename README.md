@@ -1,48 +1,54 @@
-
+<div align="center">
 
 # ⚡ WarriorOG Portfolio
 
-A premium cyber-inspired developer portfolio built for speed, smooth animations, and modern UI.
+### A premium cyber-inspired developer portfolio built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS v4**.
 
-<p>
-<img src="https://img.shields.io/github/stars/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/forks/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/issues/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge"/>
-<img src="https://img.shields.io/github/license/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite"/>
-<img src="https://img.shields.io/badge/TailwindCSS-v4-38BDF8?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Motion-12-000000?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/issues/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=WarriorOGZz&style=for-the-badge&color=7CFFB2"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-v4-38BDF8?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Motion-12-black?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WarriorOGZz&style=for-the-badge&color=7CFFB2" />
+</p>
 
 </div>
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - Premium Cyberpunk UI
-- Beautiful Motion Animations
+- Smooth Motion Animations
 - Fully Responsive
 - React 19 + TypeScript
 - Tailwind CSS v4
 - Lightning Fast Vite
-- Modern Components
+- Clean Component Architecture
 - Optimized Performance
-- Clean Folder Structure
-- Easy Customization
+- Modern Design System
+- Easy to Customize
+- SEO Friendly
+- Production Ready
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 | Technology | Version |
-|------------|---------|
+|------------|----------|
 | React | 19 |
 | TypeScript | 5 |
 | Vite | 6 |
@@ -52,104 +58,140 @@ A premium cyber-inspired developer portfolio built for speed, smooth animations,
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 src/
 ├── assets/
 ├── components/
+├── hooks/
 ├── pages/
+├── styles/
 ├── App.tsx
 ├── main.tsx
 └── index.css
-
+```
 
 ---
 
-🚀 Installation
+# 🚀 Getting Started
 
+### Clone Repository
+
+```bash
 git clone https://github.com/WarriorOGZz/Premium-Portfolio-Page..git
+```
 
+### Navigate
+
+```bash
 cd Premium-Portfolio-Page.
+```
 
+### Install Dependencies
+
+```bash
 npm install
+```
 
+### Start Development Server
+
+```bash
 npm run dev
+```
 
-Production
+---
 
+# 📦 Production Build
+
+```bash
 npm run build
+```
 
+### Preview
+
+```bash
 npm run preview
-
+```
 
 ---
 
-📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=WarriorOGZz&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarriorOGZz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WarriorOGZz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarriorOGZz&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <img src="https://streak-stats.demolab.com?user=WarriorOGZz&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarriorOGZz&theme=tokyo-night"/>
-</p>
----
 
-🌐 Live Demo
-
-Coming Soon...
-
+</div>
 
 ---
 
-📸 Screenshots
+# 🌐 Live Demo
 
-Replace these with your own screenshots.
+**Website**
 
+https://premium-portfolio-page.vercel.app
+
+---
+
+# 📸 Screenshots
+
+```text
 assets/
 ├── hero.png
 ├── about.png
 ├── projects.png
+├── skills.png
 └── contact.png
+```
 
-
----
-
-🚀 Deployment
-
-Deploy instantly using:
-
-Vercel
-
-Netlify
-
-GitHub Pages
-
-
+Replace these images with your own project screenshots.
 
 ---
 
-🤝 Contributing
+# 🚀 Deployment
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+This project can be deployed on:
 
-
----
-
-📜 License
-
-This project is licensed under the MIT License.
-
+- ▲ Vercel
+- 🌐 Netlify
+- 📄 GitHub Pages
+- ☁ Cloudflare Pages
 
 ---
 
-<div align="center">Designed & Developed by WarriorOG
+# 🤝 Contributing
 
-⭐ If you like this project, consider giving it a Star!
+Contributions are welcome.
 
-Repository: https://github.com/WarriorOGZz/Premium-Portfolio-Page.
+1. Fork the repository.
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<div align="center">
+
+## ❤️ Designed & Developed by WarriorOG
+
+If you enjoyed this project, please consider giving it a ⭐ on GitHub.
+
+### Repository
+
+https://github.com/WarriorOGZz/Premium-Portfolio-Page.
 
 </div>
-```
