@@ -4,6 +4,20 @@
 
 ### A premium cyber-inspired developer portfolio built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS v4**.
 
+# 🌐 Live Demo
+
+**Website**
+
+https://premium-portfolio-page.vercel.app
+
+---
+
+## 📸 Preview
+
+<div align="center">
+
+<img src="./assets/6a6f5a8e9316b149b4783613.jpg" alt="WarriorOG Portfolio Preview" width="100%"/>
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/forks/WarriorOGZz/Premium-Portfolio-Page.?style=for-the-badge&logo=github" />
@@ -131,20 +145,6 @@ npm run preview
 </div>
 
 ---
-
-# 🌐 Live Demo
-
-**Website**
-
-https://premium-portfolio-page.vercel.app
-
----
-
-## 📸 Preview
-
-<div align="center">
-
-<img src="./assets/6a6f5a8e9316b149b4783613.jpg" alt="WarriorOG Portfolio Preview" width="100%"/>
 
 </div>
 
